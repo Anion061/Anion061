@@ -7,8 +7,12 @@
 
 - 🔭 I’m currently working on a Flutter Application
 - 🌱 I’m currently learning Data Science and Programming courses
-- 💬 Ask me about python anytime. 
-- 📫 How to reach me: anushkaaggarwal61@gmail.com
+- 💬 Ask me about python related queries anytime.  
+- 💻 Languages I know: C/C++ and Python
+- 📫 You can reach me at: anushkaaggarwal61@gmail.com
 - 😄 Pronouns: She/ Her/ Hers
 - ⚡ Fun fact: I am a Marvel fan and I love history. Alway happy to discuss either :D
+- Check out my portfolio here: - http://anion061.github.io/
+
+
 
