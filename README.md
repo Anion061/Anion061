@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on a Flutter Application
+- 🔭 I’m currently working on a Flask Application
 - 🌱 I’m currently learning Data Science and Programming courses
 - 💬 Ask me about python related queries anytime.  
 - 💻 Languages I know: C/C++ and Python
